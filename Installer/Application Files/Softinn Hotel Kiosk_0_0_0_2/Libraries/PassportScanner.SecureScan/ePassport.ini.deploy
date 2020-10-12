@@ -1,0 +1,25 @@
+[SETTING]
+AutoSave=1
+MaxRows=300
+DataType=1
+;0: Excel, 1: Access(Default), 2: XML
+SavePath=
+TimeStamp=20200608
+ShowTime=0
+Buzzer=400,3,200
+DGMask=1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0
+EnableLog=0
+;LogPath=C:\
+
+[Headings]
+Number=9
+0=Index
+1=Full Name
+2=Document number
+3=Date of birth
+4=Date of expiry
+5=Sex
+6=Nationality
+7=Issuing State
+8=MRZ
+MenuMask=1,1,1,1,1,1,1,1,1

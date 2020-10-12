@@ -1,0 +1,214 @@
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Plustek\79DU\VxD\VID_07b3&PID_1B01]
+"MaxScanSize"="8500,14000"
+"MinScanSize"="1000,1000"
+"ADFScanCount"="100000"
+"AdfPadCount"="50000"
+"AdfRollerCount"="300000"
+"AttachedSource"="0,0,0,0,0,1,0,0,0,0"
+"FlatbedScanCount"="100000"
+"MaterialType"="0,0,0,1,1,1,0,0,0,0"
+"PaperAlign"="0,0,0,1,1"
+"YResInterp"="0,300,300"
+"OffsetPaperJammedLength"="50"
+"OffsetMultiFeedLength"="50"
+"ShortPaperLimitation"="200"
+"AutoDvdType"="1"
+"DvdType"="2"
+"GainTargetA"="0xEC00,0xEC00,0xEC00"
+"GainTargetB"="0xEC00,0xEC00,0xEC00"
+"UseMinOffset"="1"
+"UseShadingFile"="1"
+"FrontEngine"="1"
+"DuplexOutputFirst"="1"
+"Ultrasonic"="1"
+"MultiFeedImageOutFlag"="1"
+"HWFixedDpi"="1"
+"HardwareResolution"="5,100,150,200,300,600"
+"CalibrationResolution"="2,300,600"
+"HWMinPaperSize"="0"
+"HardwareMinSize"="200,300"
+"ADF_Preview"="1"
+"TrueGray"="1"
+"BitDepth_16"="1"
+"HwIpColorMatrix"="1"
+"HwIpConvolution"="1"
+"HwIpCropDeskew"="1"
+"HwIpPageFill"="1"
+"HwIpLeftAlign"="1"
+"HwIpAutoColor"="1"
+"HwIpBlankPageRemoval"="1"
+"HwIpColorRegistration"="1"
+"HwIpScaleXY"="1"
+"HwIpAutoLevel"="1"
+"HwIpColorDrop"="1"
+"HwIpEnRebuilder"="1"
+"HwIpAutoMode"="1"
+"HwIpMirror"="1"
+"HwIpFlip"="1"
+"HwIpRotate"="1"
+"HwIpPreSetXY"="1"
+"HwIpContrast"="1"
+"HwIpBrightness"="1"
+"HwIpDetectColor"="1"
+"HwIpDetectBW"="1"
+"HwIpJpegOption"="1"
+"HwIpFilter_7x7_1"="1"
+"HwIpFilter_7x7_2"="1"
+"MultiChannelGamma"="1"
+"MapParameters"="1"
+"HwDynamicSource"="1"
+"SheetFeedPaperSensor"="1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Plustek\79DU\VxD\VID_07b3&PID_1B01\LongPaper]
+"LongPaperSource"="1"
+"MaxScanSize"="8500,200000"
+"MinScanSize"="500,500"
+"Xdpi"="100,200,300,300"
+"Ydpi"="100,200,300,300"
+"HardwareResolution"="2,300,600"
+
+;;"MaxPaperLength"="200000"
+
+;;	_T("Reflection"),
+;;	_T("Positive"),
+;;	_T("Negative"),
+;;	_T("ADF"),	
+;;	_T("SheetFed"),
+;;	_T("LongPaper"),
+;;	_T("Card"),
+;;	_T("Video"),
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Plustek\79DU\VxD\VID_07b3&PID_1B01\Add-On]
+"ADJUSTORIGIN"="60,60"
+"AdjustAdfOrigin"="60,60"
+"AttachSourceMaxPaperLength"="30000"
+"AttachSourcePhysicalDPI"="300,300"
+"AttachSourcePseudoDPI"="300,300"
+"MinDpi"="50,600,600,100"
+"PseudoDPI"="1200,600"
+"PanelKeyCode"="1,13,0x31,0x00,0x31,0x32,0x33,0x34,0x35,0x36,0x37,0x38,0x39"
+"PhysicalDPI"="600,600"
+"ReCalibrate"="0"
+"ShiftY"="120,40,80,0"
+"ScannerSleepTime"="15"
+"LampOffTime"="15"
+"WarmUpTime"="120"
+"PeripheralPowerSaving"="10"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Plustek\K81U\VxD\VID_07b3&PID_1B02]
+"MaxScanSize"="8500,14000"
+"MinScanSize"="1000,1000"
+"ADFScanCount"="100000"
+"AdfPadCount"="50000"
+"AdfRollerCount"="300000"
+"AttachedSource"="0,0,0,0,0,1,0,0,0,0"
+"FlatbedScanCount"="100000"
+"MaterialType"="0,0,0,1,1,1,0,0,0,0"
+"PaperAlign"="0,0,0,1,1"
+"YResInterp"="0,300,300"
+"OffsetPaperJammedLength"="50"
+"OffsetMultiFeedLength"="50"
+"ShortPaperLimitation"="200"
+"AutoDvdType"="1"
+"DvdType"="2"
+"GainTargetA"="0xEC00,0xEC00,0xEC00"
+"GainTargetB"="0xEC00,0xEC00,0xEC00"
+"UseMinOffset"="1"
+"UseShadingFile"="1"
+"FrontEngine"="1"
+"DuplexOutputFirst"="1"
+"Ultrasonic"="1"
+"MultiFeedImageOutFlag"="1"
+"HWFixedDpi"="1"
+"HardwareResolution"="5,100,150,200,300,600"
+"CalibrationResolution"="2,300,600"
+"HWMinPaperSize"="0"
+"HardwareMinSize"="200,300"
+"ADF_Preview"="1"
+"TrueGray"="1"
+"BitDepth_16"="1"
+"HwIpColorMatrix"="1"
+"HwIpConvolution"="1"
+"HwIpCropDeskew"="1"
+"HwIpPageFill"="1"
+"HwIpLeftAlign"="1"
+"HwIpAutoColor"="1"
+"HwIpBlankPageRemoval"="1"
+"HwIpColorRegistration"="1"
+"HwIpScaleXY"="1"
+"HwIpAutoLevel"="1"
+"HwIpColorDrop"="1"
+"HwIpEnRebuilder"="1"
+"HwIpAutoMode"="1"
+"HwIpMirror"="1"
+"HwIpFlip"="1"
+"HwIpRotate"="1"
+"HwIpPreSetXY"="1"
+"HwIpContrast"="1"
+"HwIpBrightness"="1"
+"HwIpDetectColor"="1"
+"HwIpDetectBW"="1"
+"HwIpJpegOption"="1"
+"HwIpFilter_7x7_1"="1"
+"HwIpFilter_7x7_2"="1"
+"MultiChannelGamma"="1"
+"MapParameters"="1"
+"HwDynamicSource"="1"
+"SheetFeedPaperSensor"="1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Plustek\K81U\VxD\VID_07b3&PID_1B02\LongPaper]
+"LongPaperSource"="1"
+"MaxScanSize"="8500,200000"
+"MinScanSize"="500,500"
+"Xdpi"="100,200,300,300"
+"Ydpi"="100,200,300,300"
+"HardwareResolution"="2,300,600"
+
+;;"MaxPaperLength"="200000"
+
+;;	_T("Reflection"),
+;;	_T("Positive"),
+;;	_T("Negative"),
+;;	_T("ADF"),	
+;;	_T("SheetFed"),
+;;	_T("LongPaper"),
+;;	_T("Card"),
+;;	_T("Video"),
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Plustek\K81U\VxD\VID_07b3&PID_1B02\Add-On]
+"ADJUSTORIGIN"="60,60"
+"AdjustAdfOrigin"="60,60"
+"AttachSourceMaxPaperLength"="30000"
+"AttachSourcePhysicalDPI"="300,300"
+"AttachSourcePseudoDPI"="300,300"
+"MinDpi"="50,600,600,100"
+"PseudoDPI"="1200,600"
+"PanelKeyCode"="1,13,0x31,0x00,0x31,0x32,0x33,0x34,0x35,0x36,0x37,0x38,0x39"
+"PhysicalDPI"="600,600"
+"ReCalibrate"="0"
+"ShiftY"="120,40,80,0"
+"ScannerSleepTime"="15"
+"LampOffTime"="15"
+"WarmUpTime"="120"
+"PeripheralPowerSaving"="10"
+
+[ScannerList]
+Scanner_1=0x07b3,0x1B01
+Scanner_2=0x07b3,0x1B02
+
+[VID_07b3&PID_1B01]
+Model=79DU
+Manufacturer="Plustek Inc."
+Company=Plustek
+ProductName="Plustek eScan 3466"
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_1b01.img
+
+[VID_07b3&PID_1B02]
+Model=K81U
+Manufacturer="Plustek Inc."
+Company=Plustek
+ProductName="SmartOffice PT2160"
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_1b01.img

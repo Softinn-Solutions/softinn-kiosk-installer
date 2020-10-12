@@ -1,0 +1,7 @@
+[DebugMode]
+Enable=0
+
+[IDCardTW]
+Front-Preprocess=3
+Back-Preprocess=4
+

@@ -1,0 +1,15 @@
+[Google]
+ApplyTesseract="eng,deu,fra,ita,spa,por,pol,rus,tur"
+;eng
+;deu
+;fra
+;ita
+;spa
+;por
+;pol
+;rus
+;tur
+;ara
+PDFJpegQuality=85
+[ABBYY11]
+PDFJpegQuality=45

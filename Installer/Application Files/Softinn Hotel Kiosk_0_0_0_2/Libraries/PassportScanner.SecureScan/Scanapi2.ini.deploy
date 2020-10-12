@@ -1,0 +1,164 @@
+[ScannerList]
+Scanner_1=0x07b3,0x1B02
+Scanner_2=0x07b3,0x1B01
+Scanner_3=0x07b3,0x1903
+Scanner_4=0x07b3,0x1913
+Scanner_5=0x07b3,0x1904
+Scanner_6=0x07b3,0x1910
+Scanner_7=0x07b3,0x1909
+Scanner_8=0x07b3,0x1921
+Scanner_9=0x07b3,0x1923
+Scanner_10=0x07b3,0x190a
+Scanner_11=0x07b3,0x1901
+Scanner_12=0x07b3,0x190f
+Scanner_13=0x07b3,0x1911
+Scanner_14=0x07b3,0x1907
+Scanner_15=0x07b3,0x1908
+Scanner_16=0x07b3,0x191e
+Scanner_17=0x07b3,0x1920
+Scanner_18=0x07b3,0x1915
+Scanner_19=0x07b3,0x1902
+Scanner_20=0x07b3,0x19ff
+Scanner_21=0x07b3,0x191f
+Scanner_22=0x07b3,0x1922
+Scanner_23=0x07b3,0x0050
+;Scanner_1=0x07b3,0x1900
+;Scanner_5=0x07b3,0x1917
+;Scanner_6=0x07b3,0x1B02
+;Scanner_7=0x07b3,0x1B01
+;Scanner_18=0x07b3,0x1916
+
+[VID_07b3&PID_1900]
+ScanApi=ScanApi2_gl310.dll
+Model=69DU
+Manufacturer="Plustek Inc."
+ProductName="Plustek eScan 310"
+Company=Plustek
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_0e10.img
+
+[VID_07b3&PID_1901]
+ScanApi=ScanApi2_gl310.dll
+Model=6C1U
+Manufacturer="Plustek Inc."
+ProductName="PL3225"
+Company=Plustek
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_0e10.img
+
+[VID_07b3&PID_1902]
+ScanApi=ScanApi2_gl310.dll
+Model=670U
+Manufacturer="Plustek Inc."
+ProductName="PS30D"
+Company=Plustek
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_0e10.img
+
+[VID_07b3&PID_1903]
+ScanApi=ScanApi2_gl310.dll
+Model=K71U
+Manufacturer="Plustek Inc."
+ProductName="PS406"
+Company=Plustek
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_0e10.img
+
+[VID_07b3&PID_1908]
+ScanApi=ScanApi2_gl310.dll
+Model=K73U
+Manufacturer="Plustek Inc."
+Company=Plustek
+ProductName="SmartOffice PS3140U"
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_0e10.img
+
+[VID_07b3&PID_190f]
+ScanApi=ScanApi2_gl310.dll
+Model=K7BU
+Manufacturer="Plustek Inc."
+Company=Plustek
+ProductName="SmartOffice PS188"
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_0e10.img
+
+[VID_07b3&PID_1912]
+ScanApi=ScanApi2_gl310.dll
+Model=K7DU
+Manufacturer="Plustek Inc."
+ProductName="SmartOffice PN30U"
+Company=Plustek
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_0e10.img
+
+[VID_07b3&PID_1913]
+ScanApi=ScanApi2_gl310.dll
+Model=K7FU
+Manufacturer="Plustek Inc."
+ProductName="SmartOffice PS30U"
+Company=Plustek
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_0e10.img
+
+[VID_07b3&PID_1915]
+ScanApi=ScanApi2_gl310.dll
+Model=K76U
+Manufacturer="Plustek Inc."
+Company=Plustek
+ProductName="SmartOffice PS3180U"
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_0e10.img
+
+[VID_07b3&PID_1917]
+ScanApi=ScanApi2_gl310.dll
+Model=K78U
+Manufacturer="Plustek Inc."
+ProductName="Founder D3060C"
+Company=Plustek
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_0e10.img
+
+[VID_07b3&PID_1B01]
+ScanApi=ScanApi2_3466.dll
+Model=79DU
+Manufacturer="Plustek Inc."
+Company=Plustek
+ProductName="Plustek eScan 3466"
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_1b01.img
+
+[VID_07b3&PID_1B02]
+ScanApi=ScanApi2_3466.dll
+Model=K78U
+Manufacturer="Plustek Inc."
+ProductName="eStation FS6012"
+Company=Plustek
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_0e10.img
+
+[VID_05e3&PID_f310]
+ScanApi=ScanApi2_gl310.dll
+Model=69DU
+Manufacturer="Genesys Inc."
+ProductName="Genesys USB2.0 Scanner"
+Company=Genesys
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_0e0d.img
+
+[VID_07b3&PID_1916]
+ScanApi=ScanApi2_gl310.dll
+Model=K77U
+Manufacturer="Plustek Inc."
+ProductName="SmartOffice PS406U Plus"
+Company=Plustek
+ICCProfile="C:\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm"
+UpgradeFW_File=plk_fw_0e10.img
+
+[Exception]
+egd_th_h=30
+egd_th_v_out=30
+egd_th_v_in=30
+rb_pinch_t=12
+rb_pinch_b=12
+rb_pinch_l=12
+rb_pinch_r=12
