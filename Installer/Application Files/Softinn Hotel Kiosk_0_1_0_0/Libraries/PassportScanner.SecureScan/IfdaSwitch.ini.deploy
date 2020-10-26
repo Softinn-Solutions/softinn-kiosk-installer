@@ -1,0 +1,8 @@
+[IP]
+;0:ImageLib 1:IFDA
+AutoRotate=0
+AutoDeskew=0
+Denoise=0
+BorderFill=0
+[Param]
+AutoRotate_MinSize=8
